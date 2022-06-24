@@ -1,0 +1,481 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+
+}
+
+#logo {
+    margin-left: 112px;
+    margin-top: 24px;
+}
+
+.navbar-brand {
+    margin-left: 10px;
+    color: rgba(0, 0, 0, 1);
+    font-weight: 800;
+    margin-top: 30px;
+}
+
+
+.nav-link {
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #111827;
+    margin-left: 16px;
+    margin-top: 33px;
+}
+
+#badge {
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+/*Reviews */
+
+
+
+/*content*/
+
+h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: -0.025em;
+    color: #111827;
+    margin-top: 168px;
+    margin-left: 112px;
+}
+
+h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #374151;
+    margin-left: 112px;
+    margin-top: 16px;
+}
+
+#mockup {
+    margin-left: 650px;
+    margin-top: -390px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.section {
+    display: flex;
+    flex-direction: row;
+}
+
+
+#started {
+    display: flex;
+    flex-direction: row;
+    width: 138px;
+    height: 55px;
+    background: #7C3AED;
+    border-radius: 8px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding-top: 16px;
+    padding-left: 24px;
+    margin-left: 112px;
+    margin-top: 32px;
+    border: none;
+}
+
+#video {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 179px;
+    height: 56px;
+    border-radius: 8px;
+    border: none;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7C3AED;
+    background: white;
+    margin-left: 16px;
+    margin-top: 32px;
+
+}
+
+#companies {
+    margin-left: -30px;
+    margin-top: 50px;
+    width: 1440px;
+    height: 130px;
+
+}
+
+
+/*feature */
+
+#heading {
+    /* text-align: center; */
+    margin-top: 96px;
+    margin-left: 360px;
+
+}
+
+#description {
+    margin-top: 8px;
+    margin-left: 320px;
+
+}
+
+#feature {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: #111827;
+    margin-top: 24px;
+    margin-left: 100px;
+
+}
+
+
+
+#feature-desc {
+    margin-left: 128px;
+}
+
+.Row {
+    margin-left: -150px;
+}
+
+.col-4 {
+    display: flex;
+    flex-direction: column;
+}
+
+#base {
+    width: 32px;
+    margin-left: 288px;
+    margin-top: 64px;
+}
+
+/* reviews*/
+
+#reviews {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    /* or 125% */
+
+    letter-spacing: -0.025em;
+
+
+    /* Neutral/900 */
+
+    color: #111827;
+    padding-left: 216px;
+    margin-top: -50px;
+
+}
+
+#review_desc {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #111827;
+    padding-left: 216px;
+    padding-top: 8px;
+}
+
+/*achiements */
+
+#achiements {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -0.025em;
+    color: #111827;
+    margin-left: 112px;
+    margin-top: 91px;
+}
+
+#achiements_desc {
+    /* Body lg / Regular */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #111827;
+    margin-left: -300px;
+    margin-top: 220px;
+}
+
+.section1 {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    margin-left: 800px;
+    margin-top: -120px;
+}
+
+#num {
+    width: 216px;
+    height: 45px;
+
+    /* Display md/Bold */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 45px;
+    /* identical to box height, or 125% */
+
+    letter-spacing: -0.025em;
+    color: #111827;
+    margin-bottom: -20px;
+
+
+}
+
+#num1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #111827;
+    display: grid;
+
+}
+
+#achiements1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -0.025em;
+    color: #111827;
+    margin-left: 200px;
+    margin-top: 91px;
+}
+
+#achiements_desc1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #111827;
+    margin-left: -300px;
+    margin-top: 220px;
+}
+
+
+#logos {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#app {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #111827;
+    margin-left:120px;
+   
+}
+
+#achiements_desc_1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #111827;
+    margin-left: 120px;
+    margin-top:20px; 
+}
+
+#badge{
+    width:250px;
+    margin-left:100px;
+    margin-top:2px;
+}
+
+.screens{
+    display: flex;
+   
+}
+
+#screen {
+    height:500px;
+   margin-left:800px;
+   margin-top:-410px;
+    
+}
+
+#mock_up{
+    height:500px;
+    margin-left:-20px;
+    margin-top:-120px;
+}
+
+#footer{
+    width:1550px;
+   
+}
+
+@media screen and (max-width:1024px) {
+    .container {
+        max-width: max-content;
+        position: relative;
+    }
+
+    #mockup {
+        margin-left: 600px;
+    }
+
+    #companies {
+        margin-left: -200px;
+        margin-top: 50px;
+        width: 1440px;
+        height: 130px;
+
+    }
+
+
+    #heading {
+        /* text-align: center; */
+        margin-top: 96px;
+        margin-left: 250px;
+
+
+    }
+
+    #description {
+        margin-top: 8px;
+        margin-left: 200px;
+
+    }
+
+    .Row {
+        padding-left: 25px;
+    }
+
+    #base {
+        margin-left: 220px;
+    }
+
+
+    #achiements {
+        margin-left: -300px;
+        margin-top: 91px;
+    }
+
+
+    #achiements_desc {
+        margin-left: -300px;
+        margin-top: 220px;
+    }
+
+    .section1 {
+
+        margin-left: 650px;
+        margin-top: -150px;
+        grid-template-columns: 1fr 1fr;
+
+    }
+
+
+    #achiements1 {
+        margin-left: -300px;
+        margin-top: 91px;
+    }
+
+    #achiements_desc1 {
+        margin-left: -300px;
+        margin-top: 220px;
+    }
+
+    #logos {
+        width: 700px;
+        margin-left: -700px;
+        margin-top: 90px;
+        padding-left: 200px;
+
+    }
+
+    #achiements_desc_1{
+       margin-left: -300px;
+        margin-bottom:50px; 
+    }
+
+    #app{
+        margin-left:-300px;
+    }
+
+    #badge{
+        margin-left:-300px;
+    }
+
+    .container_1{
+        padding-left:400px;
+    }
+
+    #screens{
+        display: flex;
+    }
+
+    #screen {
+        height:300px;
+       margin-left:190px;
+       margin-top:-445px;
+        
+    }
+    
+    #mock_up{
+        height:300px;
+        margin-left:-70px;
+        margin-top:-170px; 
+    }
+
+    #footer{
+        width:1024px;
+       
+    }
+
+}
